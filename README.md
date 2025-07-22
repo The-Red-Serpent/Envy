@@ -37,10 +37,6 @@
   - **Network:** IP configuration, ARP table, shares, network computers.
   - **Active Directory:** Domain info, trusts, users, groups, SIDs, OUs, GPOs.
 - **Reliable Detection:** Office, Sysmon, and other software checks use redundant sources.
-- **Clear Output:** 
-  - Green ASCII art banner
-  - Red author credit
-  - Cyan-highlighted sections
 - **Modular & Extendable:** Easily modify for custom enumeration tasks.
 
 ---
